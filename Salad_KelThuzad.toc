@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: Salad_KelThuzad
+## Author: Xii - based on Salad_Cthun from Goffauxs
+## Version: 1.01
+## Notes: /kt - Shows optimal positioning based on raid groups on KelThuzad
+
+Salad_KelThuzad.lua
